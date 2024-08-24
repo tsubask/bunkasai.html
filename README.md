@@ -1,5 +1,5 @@
-# bunkasai.html
 <!DOCTYPE html>
+# bunkasai.html
 <html lang="ja">
     <head>
         <title>文化祭</title>
